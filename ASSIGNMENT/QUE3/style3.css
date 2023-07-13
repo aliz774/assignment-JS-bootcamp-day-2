@@ -1,0 +1,47 @@
+
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.container{
+    width: 400px;
+    margin: 40px auto;
+}
+
+
+h1 {
+    text-align: center;
+}
+      
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+      
+.btn{
+    background-color: black;
+    color: white;
+    padding: 12px 26px;
+    border-radius: 14px;
+    cursor: pointer;
+    border: none;
+}
+
+input{
+    border: 2px solid gray;
+    border-radius: 14px;
+    padding: 15px;
+    margin-top: 9px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    width: 100%;
+
+}
+      
+#result {
+    text-align: center;
+    margin: 0 auto;
+  font-weight: bold;
+}
